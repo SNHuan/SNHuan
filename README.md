@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SNHuan&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" /> -->
 
 
-# SNHuan
+# YiRan Peng
 
 <!-- **news**: I am looking for a research internship in the field of NLP, if you have any information, please contact me. 📧 -->
 
