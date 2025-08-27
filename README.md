@@ -30,7 +30,7 @@
 - Natural Language: 简体中文, 日本語, English
 - Programming Language:  **Java**, **Python**, JavaScript
 - Typesetting Language:  Markdown
-- Programming Framework: **Spring**, **Pytorch**, **Vue**
+- Programming Framework: **Spring**, **Flask**, **Vue**
 
 
 
