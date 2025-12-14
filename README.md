@@ -7,7 +7,8 @@
 
 ### *Independent Researcher*
 
-- 2023.9-*Present* Undergraduate Student
+- 2025.7-*Present* DeepWisdom Research Engineer Intern
+- 2025.12-*Present* HKUST(GZ) Research Assistant
 
 ## Research Interests 🔭
 
