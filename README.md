@@ -12,14 +12,14 @@
 
 ## Publication
 
-- [Autowebworld: Synthesizing infinite verifiable web environments via finite state machines](https://arxiv.org/pdf/2602.14296)【ICML 2026】
-- [Aorchestra: Automating sub-agent creation for agentic orchestration](https://arxiv.org/pdf/2602.03786)【ICML 2026】
-- [Deepeye: A steerable self-driving data agent system](https://dl.acm.org/doi/pdf/10.1145/3788853.3801612) 【SIGMOD 2026 (Demo)】
-- [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/pdf/2511.15065)
-- [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/pdf/2511.19304)
-- [Trainable dynamic mask sparse attention](https://arxiv.org/pdf/2508.02124)
-- [Harnessing agentic evolution](https://arxiv.org/pdf/2605.13821)
-- [Foundation Protocol: A Coordination Layer for Agentic Society](https://arxiv.org/pdf/2605.23218)
+- Autowebworld: Synthesizing infinite verifiable web environments via finite state machines【ICML 2026】 [Paper](https://arxiv.org/pdf/2602.14296)
+- Aorchestra: Automating sub-agent creation for agentic orchestration【ICML 2026】 [Paper](https://arxiv.org/pdf/2602.03786)
+- Deepeye: A steerable self-driving data agent system【SIGMOD 2026 (Demo)】 [Paper](https://dl.acm.org/doi/pdf/10.1145/3788853.3801612)
+- Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks [Paper](https://arxiv.org/pdf/2511.15065)
+- AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning [Paper](https://arxiv.org/pdf/2511.19304)
+- Trainable dynamic mask sparse attention [Paper](https://arxiv.org/pdf/2508.02124)
+- Harnessing agentic evolution [Paper](https://arxiv.org/pdf/2605.13821)
+- Foundation Protocol: A Coordination Layer for Agentic Society [Paper](https://arxiv.org/pdf/2605.23218)
 
 ## Research Interests 🔭
 
