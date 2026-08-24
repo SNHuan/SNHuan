@@ -7,7 +7,7 @@
 
 ### *Independent Researcher*
 
-- 2025.7-*Present* DeepWisdom Research Engineer Intern
+- 2025.7-2026.8 DeepWisdom Research Engineer Intern
 - 2025.12-2026.2 HKUST(GZ) Research Assistant
 
 ## Publication
