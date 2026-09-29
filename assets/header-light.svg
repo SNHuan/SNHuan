@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Yiran Peng — Independent Researcher</title>
+  <desc id="desc">Natural language processing, foundation models, and AI agents. A minimal geometric network accompanies the heading.</desc>
+  <rect width="960" height="248" fill="#ffffff"/>
+  <path d="M0 1H960" stroke="#dee6e9"/>
+  <path d="M0 1H56" stroke="#167a68" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="2" y="43" fill="#64717d" font-size="12" letter-spacing="3">SNHUAN / RESEARCH &amp; ENGINEERING</text>
+    <text x="0" y="117" fill="#17232e" font-size="56" font-weight="600" letter-spacing="-2">Yiran Peng<tspan fill="#167a68">.</tspan></text>
+    <text x="3" y="155" fill="#64717d" font-size="21">Independent Researcher</text>
+    <text x="3" y="209" fill="#64717d" font-size="14" letter-spacing="0.3">NLP <tspan fill="#167a68"> / </tspan> Foundation Models <tspan fill="#167a68"> / </tspan> AI Agents</text>
+  </g>
+  <g stroke="#dee6e9" stroke-width="1.1">
+    <circle cx="806" cy="121" r="82"/>
+    <ellipse cx="806" cy="121" rx="37" ry="82" transform="rotate(38 806 121)"/>
+    <ellipse cx="806" cy="121" rx="37" ry="82" transform="rotate(-38 806 121)"/>
+    <path d="M724 121H888M806 39V203" stroke-dasharray="3 6"/>
+    <path d="M746 65L864 177M866 65L748 177"/>
+  </g>
+  <circle cx="806" cy="121" r="17" fill="#eaf5f1"/>
+  <circle cx="806" cy="121" r="5" fill="#167a68"/>
+  <circle cx="746" cy="65" r="4" fill="#167a68"/>
+  <circle cx="864" cy="177" r="4" fill="#167a68"/>
+  <circle cx="888" cy="121" r="3" fill="#64717d"/>
+  <path d="M0 247H960" stroke="#dee6e9"/>
+</svg>

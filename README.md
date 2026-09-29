@@ -1,49 +1,50 @@
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SNHuan&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" alt="Yiran Peng — Independent Researcher. NLP / Foundation Models / AI Agents." width="100%">
+</picture>
 
+<br>
 
-# Yiran Peng
+My research interests span **natural language processing**, **large language models**, **foundation models**, and **AI agents**.
 
-<!-- **news**: I am looking for a research internship in the field of NLP, if you have any information, please contact me. 📧 -->
+### Experience
 
-### *Independent Researcher*
+- **DeepWisdom** · Research Engineer Intern <br> <sub>Jul 2025 — Aug 2026</sub>
+- **HKUST (Guangzhou)** · Research Assistant <br> <sub>Dec 2025 — Feb 2026</sub>
 
-- 2025.7-2026.8 DeepWisdom Research Engineer Intern
-- 2025.12-2026.2 HKUST(GZ) Research Assistant
+### Publications
 
-## Publication
+**[AutoWebWorld](https://arxiv.org/pdf/2602.14296)** &nbsp; <sub>ICML 2026</sub> <br>
+Synthesizing infinite verifiable web environments via finite state machines.
 
-- Autowebworld: Synthesizing infinite verifiable web environments via finite state machines【ICML 2026】 [Paper](https://arxiv.org/pdf/2602.14296)
-- Aorchestra: Automating sub-agent creation for agentic orchestration【ICML 2026】 [Paper](https://arxiv.org/pdf/2602.03786)
-- Harnessing agentic evolution【NeurIPS 2026】[Paper](https://arxiv.org/pdf/2605.13821)
-- Deepeye: A steerable self-driving data agent system【SIGMOD 2026 (Demo)】 [Paper](https://dl.acm.org/doi/pdf/10.1145/3788853.3801612)
-- Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks [Paper](https://arxiv.org/pdf/2511.15065)
-- AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning [Paper](https://arxiv.org/pdf/2511.19304)
-- Trainable dynamic mask sparse attention [Paper](https://arxiv.org/pdf/2508.02124)
-- Foundation Protocol: A Coordination Layer for Agentic Society [Paper](https://arxiv.org/pdf/2605.23218)
+**[AOrchestra](https://arxiv.org/pdf/2602.03786)** &nbsp; <sub>ICML 2026</sub> <br>
+Automating sub-agent creation for agentic orchestration.
 
-## Research Interests 🔭
+**[Harnessing Agentic Evolution](https://arxiv.org/pdf/2605.13821)** &nbsp; <sub>NeurIPS 2026</sub>
 
-- Natural Language Processing
-- Large Language Models
-- Foundation Models
-- Minecraft Server Development
-- Mini Programs Development
-- Software Development
-- AI Agent Development
-- APP Development
-- Game Soundtrack
-- Game Production
-- VFX
+**[DeepEye](https://dl.acm.org/doi/pdf/10.1145/3788853.3801612)** &nbsp; <sub>SIGMOD 2026 · Demo</sub> <br>
+A steerable self-driving data agent system.
 
-## Skills ⚒️
+<details>
+<summary>More research · 4 papers</summary>
 
-- Natural Language: 简体中文, 日本語, English
-- Programming Language:  **Java**, **Python**, JavaScript
-- Typesetting Language:  Markdown
-- Programming Framework: **Spring**, **Flask**, **Vue**
+- [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/pdf/2511.15065)
+- [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/pdf/2511.19304)
+- [Trainable Dynamic Mask Sparse Attention](https://arxiv.org/pdf/2508.02124)
+- [Foundation Protocol: A Coordination Layer for Agentic Society](https://arxiv.org/pdf/2605.23218)
 
+</details>
 
+### Toolkit & beyond
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNHuan&layout=compact" />
+**Code** &nbsp; Python · Java · JavaScript <br>
+**Frameworks** &nbsp; Flask · Spring · Vue <br>
+**Writing** &nbsp; Markdown <br>
+**Languages** &nbsp; 简体中文 · 日本語 · English
 
-<img align="bottom" src="https://komarev.com/ghpvc/?username=SNHuan" alt="snhuan" />
+Beyond research, I enjoy building software, apps, mini programs, and Minecraft servers, and exploring game production, game soundtracks, and VFX.
+
+---
+
+<sub>[Explore my repositories ↗](https://github.com/SNHuan?tab=repositories)</sub>
