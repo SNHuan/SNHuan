@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./assets/header-matrix-en-v5-mobile-dark.svg"><source media="(max-width: 520px) and (prefers-color-scheme: light)" srcset="./assets/header-matrix-en-v5-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/header-matrix-en-v5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-matrix-en-v5-light.svg"><img alt="Yiran Peng — @SNHuan · Independent Researcher · NLP, Foundation Models, AI Agents" src="./assets/header-matrix-en-v5-dark.svg" width="100%"></picture>
+<picture><source media="(max-width: 520px)" srcset="./assets/header-matrix-identity-v7-mobile.svg"><img alt="Yiran Peng — Independent Researcher · NLP, Foundation Models, AI Agents" src="./assets/header-matrix-identity-v7-desktop.svg" width="100%"></picture>
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg"><img alt="" src="./assets/experience-dark.svg" width="22" height="22" align="absmiddle"></picture> &nbsp; Experience
 
